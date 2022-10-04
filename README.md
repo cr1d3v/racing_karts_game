@@ -17,11 +17,15 @@ There's a huge stream of ideas that comes to mind however a good starting point 
 
 Hey 👋, I left some screengrabs below, check them out!
 
-<img src = "./other/raceStart.PNG" width="650" height="350">
+<p align="center">
+<img src = "./other/raceStart.PNG" width="425" height="325">
+</p>
 
 ---
 
-<img src = "./other/hittingTheApex.PNG" width="650" height="350">
+<p align="center">
+<img src = "./other/hittingTheApex.PNG" width="425" height="325">
+</p>
 
 ## Stack
 
