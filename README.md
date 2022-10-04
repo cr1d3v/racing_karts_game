@@ -21,13 +21,13 @@ There's a huge stream of ideas that comes to mind however a good starting point 
 ## Demo
 
 <p align="center">
-<img src = "./other/raceStart.PNG" width="425" height="325">
+<img src = "./other/raceStart.PNG" width="550" height="375">
 </p>
 
 ---
 
 <p align="center">
-<img src = "./other/hittingTheApex.PNG" width="425" height="325">
+<img src = "./other/hittingTheApex.PNG" width="550" height="375">
 </p>
 
 ## User Guide on How to Run the Application ? 
