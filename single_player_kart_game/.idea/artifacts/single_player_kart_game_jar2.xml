@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="single_player_kart_game:jar2">
+    <output-path>$PROJECT_DIR$/single_player_kart_game_jar2</output-path>
+    <root id="archive" name="single_player_kart_game.jar">
+      <element id="module-output" name="single_player_kart_game" />
+    </root>
+  </artifact>
+</component>
