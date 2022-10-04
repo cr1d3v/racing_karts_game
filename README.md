@@ -14,9 +14,11 @@ How can the following application be improved?
 <br>
 There's a huge stream of ideas that comes to mind however a good starting point would be the implementation of collision detection. The following feature was something that I have attempted to implement but unfortunately have not finished as of yet.
 
-## Demo
+## Stack
 
-Hey 👋, I left some screengrabs below, check them out!
+- [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) - A general-purpose programming language designed by [Sun Microsystems, Inc.](https://en.wikipedia.org/wiki/Sun_Microsystems)
+
+## Demo
 
 <p align="center">
 <img src = "./other/raceStart.PNG" width="425" height="325">
@@ -27,10 +29,6 @@ Hey 👋, I left some screengrabs below, check them out!
 <p align="center">
 <img src = "./other/hittingTheApex.PNG" width="425" height="325">
 </p>
-
-## Stack
-
-- [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) - A general-purpose programming language designed by [Sun Microsystems, Inc.](https://en.wikipedia.org/wiki/Sun_Microsystems)
 
 ## User Guide on How to Run the Application ? 
 
@@ -45,7 +43,7 @@ P.S: In essence the 'jar' file is the java applications packaged into a single f
 
 Alternatively:
 
- you may want to import the application into an IDE for example the [IntelliJ IDEA](https://www.jetbrains.com/idea/) that was used to develop the application itself. In order to do so you will require to import the entire root directory i.e., single_player_kart_game folder. If an error occurs, make sure that the src folder has the 3 crucial files i.e., Main.Java, RaceCars.Java, RacingPanel.Java and raceCarImg folder.
+ you may want to import the application into an IDE for example the [IntelliJ IDEA](https://www.jetbrains.com/idea/) that was used to develop the application itself. In order to do so you will require to import the entire root directory i.e., single_player_kart_game folder as a project. If an error occurs, make sure that the src folder has the 3 crucial classes i.e., Main.Java, RaceCars.Java, RacingPanel.Java and raceCarImg folder.
 
  ## User Guide on Game Controls ? 
 ```
