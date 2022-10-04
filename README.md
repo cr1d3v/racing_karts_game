@@ -8,7 +8,7 @@ The following application was my first-ever attempt at working with [Java](https
 
 Faced difficulties?
 <br>
-Java is quite similar to C# semantically and syntactically, therefore the biggest difficulties faced were learning the [IntelliJ IDEA](https://www.jetbrains.com/idea/) interface as well as some minor syntax differences. As for the project itself, I had a few failed attempts at importing the .jpg files for the go_karts used as well as fine-tuning the karts turning points. 
+Java is quite similar to C# semantically and syntactically, therefore the biggest difficulties faced were learning the [IntelliJ IDEA](https://www.jetbrains.com/idea/) interface as well as some minor syntax differences. As for the project itself, I had a few failed attempts at importing the .png files for the go_karts used as well as fine-tuning the karts turning points. 
 
 How can the following application be improved?
 There's a huge stream of ideas that comes to mind however a good starting point would be the implementation of collision detection. The following feature was something that I have attempted to implement but unfortunately have not finished as of yet.
