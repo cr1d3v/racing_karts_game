@@ -14,7 +14,7 @@ How can the following application be improved?
 <br>
 There's a huge stream of ideas that comes to mind however a good starting point would be the implementation of collision detection. The following feature was something that I have attempted to implement but unfortunately have not finished as of yet.
 
-## Stack
+## Tech Stack
 
 - [Java](https://en.wikipedia.org/wiki/Java_(programming_language)) - A general-purpose programming language designed by [Sun Microsystems, Inc.](https://en.wikipedia.org/wiki/Sun_Microsystems)
 
